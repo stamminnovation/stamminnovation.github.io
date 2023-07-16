@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Links
+title: Referenzen
 permalink: /links/
 ---
-Die kleine aber feine Linksammlung
+Referenzen
