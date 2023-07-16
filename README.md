@@ -1,2 +1,2 @@
-### Personal Blog Carsten Stamm.
-This repository will contain all data regarding the blog site blog.stamm-networks.de
+### Homepage of stamminnovation
+This repository will contain all data regarding the website of stamminnovation
